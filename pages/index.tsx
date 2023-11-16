@@ -11,8 +11,8 @@ export default function CarbonBiologicalPump() {
   return (
     <>
       <Head>
-        <title>Carbon Biological Pump</title>
-        <meta name="description" content="In-depth Exploration of the Carbon Biological Pump and Its Impact on Earth's Climate" />
+        <title>Biological Carbon Pump</title>
+        <meta name="description" content="In-depth Exploration of the Biological Carbon Pump and Its Impact on Earth's Climate" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
