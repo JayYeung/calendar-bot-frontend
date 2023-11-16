@@ -35,7 +35,7 @@ export default function CarbonBiologicalPump() {
                 <img src="/carbon-cycle.png" alt="Carbon Cycle" className="mt-4 w-full rounded" />
               </>
             ) : (
-              <button onClick={() => setShowIntro(true)} className="mt-4 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-800 transition duration-300">Learn More</button>
+              <button onClick={() => setShowIntro(true)} className="mt-4 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-800 transition duration-300">Click Here to learn more!</button>
             )}
           </section>
 
