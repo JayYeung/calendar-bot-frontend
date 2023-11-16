@@ -21,14 +21,14 @@ export default function CarbonBiologicalPump() {
 
         <header className="py-6 bg-opacity-80 bg-indigo-700 text-white">
           <div className="container mx-auto">
-            <h1 className="text-5xl font-bold">Exploring the Carbon Biological Pump</h1>
+            <h1 className="text-5xl font-bold">Exploring the Biological Carbon Pump</h1>
             <p className="italic text-lg mt-2">By Joshua Xiong</p>
           </div>
         </header>
 
         <main className="container mx-auto p-6 bg-white rounded shadow-lg mt-6 mb-6">
           <section>
-            <h2 className="text-3xl font-semibold">Introduction to the Carbon Biological Pump</h2>
+            <h2 className="text-3xl font-semibold">Introduction to the Biological Carbon Pump</h2>
             {showIntro ? (
               <>
             <p>The biological carbon pump is an essential yet often overlooked component of the global carbon cycle. It plays a pivotal role in regulating Earth's climate by managing atmospheric carbon dioxide levels through a series of complex biological and chemical processes...</p>
@@ -86,7 +86,7 @@ export default function CarbonBiologicalPump() {
               <h2 className="text-3xl font-semibold">Impact of Eutrophication and Climate Change</h2>
               {showImpact ? (
                 <>
-            <p>Eutrophication and climate change pose significant threats to the efficiency of the carbon biological pump. These factors can disrupt the delicate balance of ocean ecosystems, affecting the pump's ability to sequester carbon effectively...</p>
+            <p>Eutrophication and climate change pose significant threats to the efficiency of the biological carbon pump. These factors can disrupt the delicate balance of ocean ecosystems, affecting the pump's ability to sequester carbon effectively...</p>
                   <img src="/eutrophication.jpeg" alt="Eutrophication" className="mt-4 w-full rounded" />
                 </>
               ) : (
