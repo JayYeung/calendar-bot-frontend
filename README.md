@@ -1,3 +1,15 @@
-biological pump information!!!!
+Frontend for Calendar Bot
 
-helping somebody build a website
+## Setup
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
+
+```bash
+npm dev
+```
